@@ -4,6 +4,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Working Spec Website
     url: https://workingspec.com
+  - name: Working Spec Dev
+    url: https://workingspec.dev
 assignees: # Users to assign downtime issues (optional)
   - AndyDBell
 status-website:
